@@ -1,16 +1,12 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Python is dynamic
+# Java is static;
+a = 19
+a = "Eldar"
+print(f"His name is {a}")
+print(f"{4/2} is equal to 2")
+b = "Mr.Genius"
+print(f"Your name is {b} ")
+user_input = input("Whats your name? ")
+print("His name is " + user_input)
+a = 9.000938874737882
+print(f"{a:.4f}")

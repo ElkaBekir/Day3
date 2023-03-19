@@ -16,3 +16,10 @@ type(11)
 some_string = "hello i am 7 years old"
 
 print(some_string)
+
+great = "a cat"
+print(great)
+
+not_great = 6;
+
+print(not_great)
